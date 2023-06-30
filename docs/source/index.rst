@@ -17,6 +17,4 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   Harmonic Oscillator
